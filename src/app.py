@@ -31,8 +31,8 @@ st.write("Enter the input features and click 'Predict' to get the sales predicti
 input_form = st.form(key='sales_prediction_form')
 #feature1 = input_form.number_input("Feature 1")
 #feature2 = input_form.number_input("Feature 2")
-BinaryEncoder = data_dt["encoder_1"]
-OrdinalEncoder=data_dt["encoder_2"]
+BinaryEncoder = input_form.number_input["encoder_1"]
+OrdinalEncoder= input_form.number_input["encoder_2"]
 # Add more input features as necessary
 
 predict_button = input_form.form_submit_button('Predict')
