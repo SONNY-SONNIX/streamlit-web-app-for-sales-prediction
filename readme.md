@@ -110,5 +110,10 @@ Contributing
 Contributions to this project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 
-Feel free to customize the README.md file based on your specific project details and requirements.
+Feel free to customize the read.md file based on your specific project details and requirements.
+Please make sure to update tests as appropriate. Contact me via my email: otchie.sonny@gmail.com
+
+## Author
+Sonny Agorvor-Otchie.
+
 
