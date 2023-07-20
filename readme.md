@@ -17,34 +17,34 @@ Make sure you have Python installed on your system.
 
 Clone this repository to your local machine.
 
-Copy code
+
 git clone <repository-url>
 Navigate to the project directory.
 
-Copy code
+
 cd <project-directory>
 Set up a virtual environment (optional but recommended).
 
-Copy code
+
 python -m venv myenv
 Activate the virtual environment.
 
 On Windows:
 
-Copy code
+
 myenv\Scripts\activate
 On macOS and Linux:
 
-Copy code
+
 source myenv/bin/activate
 Install the required packages.
 
-Copy code
+
 pip install -r requirements.txt
 Usage
 Run the Streamlit app.
 
-Copy code
+
 streamlit run sales_prediction_app.py
 
 The app will start a local web server, and you can access it by opening the provided URL in your browser.
@@ -65,40 +65,40 @@ Make sure you have Python installed on your system.
 Clone this repository to your local machine.
 
 
-Copy code
+
 git clone <repository-url>
+
 Navigate to the project directory.
 
 
-Copy code
+
 cd <project-directory>
+
 Set up a virtual environment (optional but recommended).
 
 
-Copy code
+
 python -m venv myenv
 Activate the virtual environment.
 
 On Windows:
 
-
-Copy code
 myenv\Scripts\activate
 On macOS and Linux:
 
 
-Copy code
+
 source myenv/bin/activate
 Install the required packages.
 
 
-Copy code
+
 pip install -r requirements.txt
 Usage
 Run the Streamlit app.
 
 
-Copy code
+
 streamlit run sales_prediction_app.py
 The app will start a local web server, and you can access it by opening the provided URL in your browser.
 
