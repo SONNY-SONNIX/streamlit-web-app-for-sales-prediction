@@ -9,7 +9,9 @@ import datetime
 import os
 from sklearn.tree import DecisionTreeRegressor
 
-
+Push_to_HuggingFace
+from huggingface_hub import notebook_login
+notebook_login()
 
 # Utils 
 
